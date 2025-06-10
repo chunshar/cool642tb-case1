@@ -5,6 +5,8 @@ m.ki (@0002ozlet) 様が設計・販売している自作キーボードキッ�
 ![left](https://github.com/user-attachments/assets/48f91f7c-156d-4cbd-971a-ba2cec0c9c7b)
 ![lid](https://github.com/user-attachments/assets/e1f14ec3-b685-436a-9b03-08428fae77ab)
 ![trackball_case](https://github.com/user-attachments/assets/2676a2a7-8559-42b5-9382-50a96d38dd70)
+![final](https://github.com/user-attachments/assets/313450f6-0ea8-4381-a663-1e39e108e920)
+
 
 なるべくネジが目立たないように、電池カバーとトラックボールケースは磁石で付けるようにしました。
 
@@ -17,5 +19,6 @@ Chocスイッチ用ですが、電池カバーの手前の部分と右手側ケ�
 - トラックボールケースは直径6mmx厚さ3mmの強力磁石で固定します。全部で4個必要で、ダイソーで売っているminiのサイズです。
 - ナットやマグネットがピタッとハマらない場合は、適宜ヤスリがけしたり、接着剤で固めるなりハンダゴテで熱しながら押し込むなりしてください。
 - キーキャップは適当にTai-Hao Thinsをパク・・・おっと誰か来たようだ。
+- 個人的には、電池カバーを半透明PETGで印刷したバージョンがすごく気に入っています。
 
 STEPファイルにしましたので、3D CADソフトなどでお好きに改造してご利用ください。
