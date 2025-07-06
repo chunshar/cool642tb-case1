@@ -1,16 +1,11 @@
 # cool642tb-case
 m.ki (@0002ozlet) 様が設計・販売している自作キーボードキット[cool642tb](https://booth.pm/ja/items/6740910 "BOOTH")用のシンプルなケース試作1号機です。
 
-![right](https://github.com/user-attachments/assets/1d288435-dfc4-430b-96cd-15774a342f21)
-![left](https://github.com/user-attachments/assets/48f91f7c-156d-4cbd-971a-ba2cec0c9c7b)
-![lid](https://github.com/user-attachments/assets/e1f14ec3-b685-436a-9b03-08428fae77ab)
 ![trackball_case](https://github.com/user-attachments/assets/2676a2a7-8559-42b5-9382-50a96d38dd70)
 ![final](https://github.com/user-attachments/assets/313450f6-0ea8-4381-a663-1e39e108e920)
 
-
 なるべくネジが目立たないように、電池カバーとトラックボールケースは磁石で付けるようにしました。
-
-Chocスイッチ用ですが、電池カバーの手前の部分をカットすればMXスイッチでも使えます。
+ChocスイッチでもMXスイッチでも共通で使えます。
 
 - ボトムプレートはスイッチソケットやダイオードの形に掘ってありますので、デフォルトのM2x3mmのスペーサーを使わずに、M2のナットを埋め込んでトッププレートからネジ留めするとPCBにビタ付けできます。
   でも、スペーサーをナット代わりにそのまま使っても、1.5mm程度の隙間ができるだけで特に問題はないです。
